@@ -1,1 +1,0 @@
-# cat-photo-app
